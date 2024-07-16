@@ -10,6 +10,8 @@ const sub = (a,b) => {
   return a -b;
 }
 
+console.log ("Hello");
+
 module.exports = {
   add,
   multi,
