@@ -3,7 +3,7 @@ const { add, multi } = require("./test");
 const { printHello, printBye, printHAHA } = require("./test2");
 
 
-console.log(add(1,2));
+console.log(add(5,2));
 
 console.log(sub(1,2));
 
