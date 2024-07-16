@@ -13,3 +13,5 @@ printHello();
 printBye();
 
 printHAHA();
+
+printBye();
